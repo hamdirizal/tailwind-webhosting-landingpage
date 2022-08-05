@@ -1,2 +1,2 @@
-# tailwind-webhosting-landingpage
+# TailWind Webhosting Landing-Page
 A webhosting landing page made in Tailwind.
